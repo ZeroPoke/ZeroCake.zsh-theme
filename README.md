@@ -9,7 +9,7 @@ curl -fsSL https://raw.githubusercontent.com/ZeroPoke/ZeroCake.zsh-theme/main/Ze
 ```
 
 Edit
-> ~/.zshrc:
+> ~/.zshrc
 
 Find and Change
 > ZSH_THEME="ZeroCake"
